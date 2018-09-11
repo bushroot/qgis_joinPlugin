@@ -1,0 +1,11 @@
+# Ignore everything
+*
+
+# But not these files...
+!.gitignore
+!README.md
+
+# But not files in these folders
+!scripts/
+!scripts/*.py
+
